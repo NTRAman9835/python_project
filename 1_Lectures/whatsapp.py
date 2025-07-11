@@ -1,6 +1,6 @@
-import pywhatkit
-phone="+918102073360"
+import pywhatkit 
+phone="+919709546531"
 chat="hello"
-hour=16
-mintue=50
+hour=9
+mintue=37
 pywhatkit.sendwhatmsg(phone,chat,hour,mintue)

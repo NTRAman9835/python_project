@@ -6,8 +6,13 @@
                  1 3 3 1
                 1 4 6 4 1 '''
 from math import factorial
-rows = int(input("Enter the number of rows:"))
+rows = int(input("Enter th" \
+"" \
+"" \
+"e number of rows:"))
 for n in range(rows):
+
+
     for space in range(1,rows-n):
         print(" ",end="")
     for r in range(n+1):
